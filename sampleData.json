@@ -1,0 +1,1 @@
+window.sampleData = '[{"name" : "sample name", "time" : "123123123123", "isMalicious": "false"},{"name" : "another name", "time" : "890890890890", "isMalicious": "true"}]';
